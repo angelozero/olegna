@@ -87,3 +87,5 @@ Feito isso vamos testar para ver se nossa imagem está funcionando.
 parei aqui ---> Publishing the “Hello World” App to Docker Hub
 - [Docker - Dockerizing your Spring Boot Application | Java Techie](https://www.youtube.com/watch?v=e3YERpG2rMs)
 - [How to Push and Pull a Docker Image from Docker Hub](https://www.youtube.com/watch?v=EIHY_CY5J0k)
+
+ - [15/01] Estudei docker no everton
